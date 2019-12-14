@@ -1,0 +1,688 @@
+1576308943971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.kzalt2kB1gjj"
+1576308950618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576308950618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576308950618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 11236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11236, Gecko_IOThread] WARNING: file z:/task_1560988636/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1576308981150	Marionette	INFO	Listening on port 2567
+1576308981292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 11236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 11236, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31576309039100	Marionette	INFO	Stopped listening on port 2567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 148der*
+1576309032337	Marionette	INFO	Listening on port 2843
+1576309032483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+[Child 5468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1576309043507	Marionette	INFO	Stopped listening on port 2843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1576309068350	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.MHUdsrwa1C9g"
+1576309069843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576309069845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576309069845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576309076712	Marionette	INFO	Listening on port 2949
+1576309077700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+1576309095206	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221576281607875%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 13304, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7916, Chr[Parent 13304, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 14676
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+, Chrome_ChildThread] WARNING: pipe error: 232
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: file z
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+:/ta
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sk_15609886
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+36/bui
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ld/src/ipc/chromi
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+um/src/chrome/common/ipc_channel_win.cc, line 502
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 14676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_15609886
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+36/build/src/ipc/chromium/src/chrome/c
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ommon/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3600BA,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaSc[Parent 13304r,i pt error: https://maps.googleapis.com/maps/api/js?client=googleG-emcko_IOThread]a pWsA-ReNmIbNeGd:& ppipe error: 109: file z:/task_1560988636a/build/src/ipc/chromium/src/chroint_me/common/ipc_channel_win.cc, line 341
+origin=&libraries=ge[Child 5976, Chrome_ChildThread] WARNINGo:metry pipe error: 109: file z:/task_1560988636/build/src/ipc/,search&v=3.exchromium/src/chrome/common/ipc_channel_win.cp&language=en_US&cac, line 341llback=onApiLoad,
+ line 1[Child 17: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 117: Error: Could not load "search_impl".
+1576309108557	Marionette	INFO	Stopped listening on port 2949
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1576309388515	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.URjB7kqs4fUy"
+1576309390659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576309390660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576309390660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576309395639	Marionette	INFO	Listening on port 3298
+1576309395676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221576281607875%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 104, Gecko_IOThread] WARNING: file z:/task_1560988636/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 145[Parent 104, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988636/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 104, Gecko_IOThread] WARNING: file z:/task_1560988636/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1576310461276	Marionette	INFO	Stopped listening on port 3298
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+576309796082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 6360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1576310461202	Marionette	INFO	Stopped listening on port 3691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+y
+1576310388115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576310388115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576310395000	Marionette	INFO	Listening on port 4260
+1576310395017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Child 17252, Chrome_ChildThread] WARNING: pipe e[Parent 17380, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11816, Chrome_ChildThread] WARNING: pipe error: 109: fi1576310489358	Marionette	INFO	Stopped listening on port 4260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 164
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+: Reading manifest: Invalid extension permission: resource://pdf.js/
+1576310430428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576310438175	Marionette	INFO	Listening on port 4476
+1576310438616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+/ipc_channel_win.cc, line 341
+###!!! [Child][MessageChannel] Error: (msgtype=0xAD0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+[Child [Parent 12860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi1576310524479	Marionette	INFO	Stopped listening on port 4476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 131576310490693	Marionette	INFO	Listening on port 4694
+1576310490883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+1576310513961	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.ksATWH20SHTN"
+1576310517351	addons.webextension.screenshots@mozilla.org	W1576310560312	Marionette	INFO	Stopped listening on port 4694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 598
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mission: telemetry
+1576310517352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576310517352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576310532951	Marionette	INFO	Listening on port 4875
+1576310532987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+1576310699926	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.nxPUsPFHV7SM"
+1576310701775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576310701776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576310701776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576310701776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576310709382	Marionette	INFO	Listening on port 5191
+1576310709815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 11992, Gecko_IOThread] WARNING: file z:/task_1575282935/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 14340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 11992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576311413951	Marionette	INFO	Stopped listening on port 5191
+[GPU 272, Chrome_ChildThread] WARNING: pipe erro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+09426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576310815352	Marionette	INFO	Listening on port 5489
+1576310815811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9300, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChilJavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576311414743	Marionette	INFO	Stopped listening on port 5489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1639	Marionette	INFO	Listening on port 5894
+1576311141982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 14840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2808,JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+[Parent 14840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576311169866	Marionette	INFO	Stopped listening on port 5894
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1576311196891	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.LSZAnIBvhl1H"
+1576311198371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576311198371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576311198372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576311198372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311204177	Marionette	INFO	Listening on port 6033
+1576311204586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 7656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 7656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChiJavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576311367506	Marionette	INFO	Stopped listening on port 6033
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+aScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311254867	Marionette	INFO	Listening on port 6230
+1576311255233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10936, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChiJavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576311365802	Marionette	INFO	Stopped listening on port 6230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1576311412922	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.VuI7vg2qXjFP"
+1576311415492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576311415492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576311415492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576311415492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311422285	Marionette	INFO	Listening on port 6526
+1576311422548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+1576311487540	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.LgFFmMnmhhv6"
+1576311489777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576311489777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576311489777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576311489777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311496763	Marionette	INFO	Listening on port 6716
+1576311497090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 1312, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 6424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6[Parent 1312, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576311633052	Marionette	INFO	Stopped listening on port 6716
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311630322	Marionette	INFO	Listening on port 6949
+1576311630907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 15676, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 15676, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576311852553	Marionette	INFO	Stopped listening on port 6949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 40
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n: resource://pdf.js/
+1576311679307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311685267	Marionette	INFO	Listening on port 7114
+1576311685379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 10996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8212, Chrome_ChildThrea1576311853963	Marionette	INFO	Stopped listening on port 7114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+js/
+1576311799701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576311806675	Marionette	INFO	Listening on port 7352
+1576311806967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 2388, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 65[Parent 2388, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576311885280	Marionette	INFO	Stopped listening on port 7352
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+63242	Marionette	INFO	Listening on port 7527
+1576311863411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10908, Chrome_C[Child 16620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,
+###!!! [Child][MessageChannel] Error: (msgtype=0x37011E,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+ line 341
+###!!! [Child][MessageChannel] Error: (msgtype=0xAD0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+[Child[Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576312045116	Marionette	INFO	Stopped listening on port 7527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Chan1576312045229	Marionette	INFO	Listening on port 7843
+1576312045360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 7636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15548, Chrome_ChildThrea[Child 13344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 7636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576312152925	Marionette	INFO	Stopped listening on port 7843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+out:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576312148146	Marionette	INFO	Listening on port 8071
+1576312148266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Child 4576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Parent 148
+96, Gecko_I[ChildOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576312367882	Marionette	INFO	Stopped listening on port 8071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576312191665	Marionette	INFO	Listening on port 8227
+1576312191952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+1576312367821	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.oZLaMRBjwt5g"
+1576312369420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576312369420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576312369420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576312369420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576312376399	Marionette	INFO	Listening on port 8513
+1576312376693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 5636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8624, Chrome_ChildThread] WARNING: pipe error: 109: fil[eChild 7992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7992, Chrome_ChildThread] WARNI z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8624, Chrome_ChildThread] WARNING: pipe error[Parent 5636, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576320821543	Marionette	INFO	Stopped listening on port 8513
+[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576312494161	Marionette	INFO	Listening on port 8750
+1576312494529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+[Parent 16928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common[/ipc_channCel_win.cc, line 341
+hild 11640, Chrome_
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 16928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 103241576320821669	Marionette	INFO	Stopped listening on port 8750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ed for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 5960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16508, Chrome_ChildTh[Child 11020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+read] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Parent 5960, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576320824357	Marionette	INFO	Stopped listening on port 9071
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576312723616	Marionette	INFO	Listening on port 9189
+1576312724106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780675, line 62: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 16428, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1312, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel] Error: (msgtype=0x540018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+[Child 12392, Chrome_ChildThre[Parent 16428, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576320823858	Marionette	INFO	Stopped listening on port 9189
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1576323910995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.J9WANHJlQshF"
+1576323913062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576323913062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576323913062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576323913062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576323920118	Marionette	INFO	Listening on port 12477
+1576323920378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 13212, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13212, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576324081538	Marionette	INFO	Stopped listening on port 12477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1576324156433	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\\rust_mozprofile.3cviO8XNGsAd"
+1576324158318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576324158318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576324158318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576324158318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576324165694	Marionette	INFO	Listening on port 12627
+1576324165890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Child 17396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1739[Parent 7396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1576324551869	Marionette	INFO	Stopped listening on port 12627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2024
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+229731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576324229731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576324236898	Marionette	INFO	Listening on port 12747
+1576324237076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 12452, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 12452, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576324551790	Marionette	INFO	Stopped listening on port 12747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1576324301012	Marionette	INFO	Listening on port 12859
+1576324301360	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 17864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935[Parent 17864, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChJavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576324551899	Marionette	INFO	Stopped listening on port 12859
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+.jsm, line 66: Error: Can't find profile directory.
+1576324511210	Marionette	INFO	Listening on port 12986
+1576324511607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+1576324548262	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saket\\AppData\\Local\\Temp\[Parent 14280, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1576324578528	Marionette	INFO	Stopped listening on port 12986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1576324563753	Marionette	INFO	Listening on port 13099
+1576324564217	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChiIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 8340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20412, Chrome_Ch[Child 5460, Chrome_ChildT
+###!!! [Child][MessageChannel] Error: (msgtype=0x540018,name=PHal::Msg_UnlockScreenOrientation) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+hread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576325364838	Marionette	INFO	Stopped listening on port 13099
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+le code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[ChiJavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1576325364761	Marionette	INFO	Stopped listening on port 13265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+red for this session
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+JavaScript warning: https://kinnpimg1.bluestone.com/resources/themes/bluestone/generated/main.js?version=14623780680, line 62: unreachable code after return statement
+[Parent 7840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 7840, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1484, Chrome_ChildThread]1576325364933	Marionette	INFO	Stopped listening on port 13386
+[GPU 205
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
